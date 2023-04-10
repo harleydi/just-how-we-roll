@@ -36,6 +36,12 @@ let d6mean = document.querySelector('#d6-rolls-mean')
 
 // console.log(doubleSixes)
 
+d6img.src = './images/start/d6.png'
+doubleD61.src = `./images/start/d6.png`
+doubleD62.src = `./images/start/d6.png`
+d12img.src = `./images/start/d12.jpeg`
+d20img.src = `./images/start/d20.jpg`
+
 /*******************
  * EVENT LISTENERS *
  *******************/
